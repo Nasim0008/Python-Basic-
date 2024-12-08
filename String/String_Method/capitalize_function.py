@@ -2,6 +2,7 @@
 capitalize() function only works with the s[0]
 if the s[0] is lower case character then it converte to the upper case
 if the s[0] is not lower case character, then it remains same. applied for the number or special character
+and all other character convert to the lower case except the first character
 """
 
 s = "md nasim hossen"
